@@ -1,0 +1,9 @@
+Settings:
+  #幾分鐘判定一次
+  Interval: 1
+
+  #移除物品的訊息
+  Message: "你手上持有附魔等級超過5的道具，故此清除！"
+
+  #是否開啟紀錄
+  Record: true
